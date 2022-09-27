@@ -44,7 +44,7 @@ public class AddressBook {
 			}
 			if(choice == 8)
 			{
-				break
+				break;
 			}
 		}
 	}
