@@ -12,6 +12,7 @@ public class DBConnection {
 	static final String PASS = "Mahadyut@123";
 	
     static Connection con=null;
+	static Connection con=null;
     public static Connection getConnection()
     {
         if (con != null) return con;
