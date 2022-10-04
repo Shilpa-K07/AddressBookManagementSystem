@@ -38,7 +38,9 @@ public class AddressBook {
 					break;
 			case 7:op.createNewaddressBook();
 					break;
-			case 8:System.out.println("Exiting..");
+		        case 8:op.createNewaddressBook();
+					break;
+			case 9:System.out.println("Exiting..");
 					break;
 			default:System.out.println("enter numbers between 1 to 7");		
 			}
