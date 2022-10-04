@@ -14,6 +14,7 @@ public class DBConnection {
     static Connection con=null;
 	static Connection con=null;
 	static Connection con=null;
+static Connection con=null;
     public static Connection getConnection()
     {
         if (con != null) return con;
