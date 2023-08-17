@@ -1,4 +1,7 @@
 package com.addressbook;
+package com.addressbook;
+package com.addressbook;
+package com.addressbook;
 
 public interface AddressBookServiceInf {
 void addPerson();
